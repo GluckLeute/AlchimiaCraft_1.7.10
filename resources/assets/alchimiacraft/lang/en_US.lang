@@ -1,0 +1,57 @@
+##############################################################################
+# lang : English
+##############################################################################
+
+item.alchimia_powder.name=Alchimia Powder
+item.jewel_frame.name=Jewel Frame
+item.ender_jewel.name=Ender Jewel
+item.witch_crystal.name=Witch Crystal
+item.exp_powder.name=Exp Powder
+item.lavagist_ingot.name=Lavagist Ingot
+item.alchimia_stone.name=Alchimia Stone
+item.iron_alchimia_stone.name=Iron Alchimia Stone
+item.diamond_alchimia_stone.name=Diamond Alchimia Stone
+item.alchimia_stone_apple.name=Alchimia Stone Apple
+item.iron_alchimia_stone_apple.name=Iron Alchimia Stone Apple
+item.diamond_alchimia_stone_apple.name=Diamond Alchimia Stone Apple
+item.golden_alchimia_apple.name=Golden Alchimia Apple
+item.exp_apple.name=Exp Apple
+item.alchimia_stone_sword.name=Alchimia Stone Sword
+item.iron_alchimia_stone_sword.name=Iron Alchimia Stone Sword
+item.diamond_alchimia_stone_sword.name=Diamond Alchimia Stone Sword
+item.explosion_sword.name=Explosion Sword
+item.lavagist_sword.name=Lavagist Sword
+item.wand.name=Wand
+item.ender_wand.name=Ender Wand
+item.snow_wand.name=Snow Wand
+item.fire_wand.name=Fire Wand
+item.ghast_wand.name=Ghast Wand
+item.lightning_wand.name=Lightning Wand
+item.explosion_wand.name=Explosion Wand
+item.fallther_boots.name=Fallther Boots
+
+tile.alchimia_ore.name=Alchimia Ore
+tile.alchimia_block.name=Block of Alchimia
+tile.ender_jewel_ore.name=Ender Jewel Ore
+tile.lavagist_ore.name=Lavagist Ore
+tile.lavagist_block.name=Lavagist Block
+tile.exp_converter.name=Exp Converter
+
+itemGroup.AlchimiaCraftTab=AlchimiaCraft
+
+achievement.getAlchimiaPowder=Time to do Alchimia !
+achievement.getAlchimiaPowder.desc=Getting the alchimia powder .
+achievement.craftWand=It will be start ...
+achievement.craftWand.desc=Crafting a wand .
+achievement.getAlchimiaStone=Power of Alchimia .
+achievement.getAlchimiaStone.desc=Getting a alchimia stone .
+achievement.craftIronAlchimiaStone=Upgrade !
+achievement.craftIronAlchimiaStone.desc=Crafting a iron alchimia stone .
+achievement.craftDiamondAlchimiaStone=You should be able to still .
+achievement.craftDiamondAlchimiaStone.desc=Crafting a diamond alchimia stone .
+achievement.craftGoldAlchimiaApple=It looks overflowing the energy .
+achievement.craftGoldAlchimiaApple.desc=Making a golden alchimia apple .
+achievement.useGoldAlchimiaApple=It's so delicious and moist .
+achievement.useGoldAlchimiaApple.desc=Eating a golden alchimia apple .
+achievement.getEnderJewel=This looks beautiful .
+achievement.getEnderJewel.desc=Getting the ender jewel .
