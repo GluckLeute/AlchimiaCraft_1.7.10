@@ -105,7 +105,7 @@ public class ItemExplosionWand extends Item {
 		                int y = position.blockY + 1;
 		                int z = position.blockZ;
 		                    
-		                world.newExplosion(entityplayer, x, y,108 z, j * 0.25F, true, true);
+		                world.newExplosion(entityplayer, x, y, z, j * 0.25F, true, true);
 		                
 		                itemstack.damageItem(8, entityplayer);
 		    	}
